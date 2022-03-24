@@ -15,7 +15,7 @@
   "dependencies": {
     "chokidar": "^2.0.4",
     "live-server": "^1.2.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "node-notifier": "^5.3.0",
     "pug": "^2.0.3",
     "sass": "^1.9.2"
